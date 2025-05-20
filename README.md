@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dulysses2019
-- 👀 I’m interested in Aerospace/Data Management.
+- 👀 I’m interested in Data Pipelines and Production AI Applications for business.
 - 💞️ I’m looking to collaborate on anything open source to get my foot in the door and some experience
-- 📫 How to reach me on my email dulysses2019@gmail.com
+- 📫 How to reach me on my email: dulysses2019@gmail.com
 
 <!---
 dulysses2019/dulysses2019 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
